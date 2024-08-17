@@ -10,9 +10,13 @@ I'm Said Adullahi, a Master of Data Science graduate with a background in econom
 
 ## 🛠️ Technical Skills
 **Languages:** Python, R, SQL
+
 **Frameworks & Tools:** TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib
+
 **Specializations:** Machine Learning, Deep Learning, Computer Vision, Data Visualization, Econometrics
+
 **Cloud Technologies:** Azure, Google Cloud Platform, Docker
+
 **Project Management:** Agile, JIRA, Git
 
 ## 📈 Featured Projects
