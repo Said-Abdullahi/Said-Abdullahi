@@ -1,12 +1,12 @@
 ## 👋 Welcome to My GitHub Profile!
-I'm Said Adullahi, a Master of Data Science graduate with a background in economics, blending analytical rigor with data science techniques to drive impactful solutions. My work spans machine learning, deep learning, and data analysis, with a focus on sustainability and economics.
+I'm Said Abdullahi, a Master of Data Science graduate with a background in economics, combining analytical precision with advanced data science techniques to deliver real-world solutions. My interests lie in applying machine learning, deep learning, and data analysis to solve complex problems, particularly in sustainability and economics.
 
-## 🌟 About Me
-🎓 Master of Data Science graduate with a foundation in economics, which enhances my ability to understand and model complex systems.
-💻 Experienced in building deep learning models, particularly in waste classification and smart recycling.
-🌱 Passionate about using technology for social good and environmental sustainability.
-🤝 Committed to mentoring IT students and guiding them in their academic and professional journeys.
-🚀 Eager to collaborate on projects that intersect economics, data science, and sustainable innovation.
+What You’ll Find Here:
+Data Science Projects: Featuring examples of machine learning, deep learning, and statistical models to tackle real-world problems, including projects in waste management, environmental sustainability, and economics.
+R and Python Repositories: Repositories where I demonstrate my coding skills and problem-solving abilities, focusing on data analysis, visualization, and reproducible research.
+Smart Recycling Project: Leveraging deep learning for sustainable solutions, using computer vision to classify waste materials accurately and optimize recycling processes.
+Cloud Computing Experience: Projects that integrate cloud technologies to build scalable, efficient, and secure data pipelines.
+Economic Models: Examples of using econometric and statistical techniques to analyze financial data, explore market trends, and inform decision-making.
 
 ## 🛠️ Technical Skills
 **Languages:** Python, R, SQL, Eviews, Stata
