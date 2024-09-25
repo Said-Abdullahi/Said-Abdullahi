@@ -2,13 +2,13 @@
 I'm Said Abdullahi, a Master of Data Science graduate with a background in economics, combining analytical precision with advanced data science techniques to deliver real-world solutions. My interests lie in applying machine learning, deep learning, and data analysis to solve complex problems, particularly in sustainability and economics.
 
 ## What You’ll Find Here:
-Data Science Projects: Featuring examples of machine learning, deep learning, and statistical models to tackle real-world problems, including projects in waste management, environmental sustainability, and economics.
+**Data Science Projects:** Featuring examples of machine learning, deep learning, and statistical models to tackle real-world problems, including projects in waste management, environmental sustainability, and economics.
 
-R and Python Repositories: Repositories where I demonstrate my coding skills and problem-solving abilities, focusing on data analysis, visualization, and reproducible research.
+**R and Python Repositories:** Repositories where I demonstrate my coding skills and problem-solving abilities, focusing on data analysis, visualization, and reproducible research.
 
-Smart Recycling Project: Leveraging deep learning for sustainable solutions, using computer vision to classify waste materials accurately and optimize recycling processes.
+**Smart Recycling Project:** Leveraging deep learning for sustainable solutions, using computer vision to classify waste materials accurately and optimize recycling processes.
 
-Economic Models: Examples of using econometric and statistical techniques to analyze financial data, explore market trends, and inform decision-making.
+**Economic Models:** Examples of using econometric and statistical techniques to analyze financial data, explore market trends, and inform decision-making.
 
 ## 🛠️ Technical Skills
 **Languages:** Python, R, SQL, Eviews, Stata
