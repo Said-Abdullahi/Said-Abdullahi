@@ -1,5 +1,5 @@
 ## 👋 Welcome to My GitHub Profile!
-I'm Said Adullahi, a Master of Data Science graduate with a background in economics, blending analytical rigor with data science techniques to drive impactful solutions. My work spans machine learning, deep learning, and data analysis, with a focus on sustainability.
+I'm Said Adullahi, a Master of Data Science graduate with a background in economics, blending analytical rigor with data science techniques to drive impactful solutions. My work spans machine learning, deep learning, and data analysis, with a focus on sustainability and economics.
 
 ## 🌟 About Me
 🎓 Master of Data Science graduate with a foundation in economics, which enhances my ability to understand and model complex systems.
