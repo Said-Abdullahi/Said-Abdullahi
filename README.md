@@ -15,7 +15,7 @@ I'm Said Abdullahi, a Master of Data Science graduate with a background in econo
 
 **Frameworks & Tools:** TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib
 
-**Specializations:** Machine Learning, Deep Learning, Computer Vision, Data Visualisation, Econometrics
+**Specializations:** Machine Learning, Deep Learning, Computer Vision, Data Visualisation (Tableau & PowerBI), Econometrics
 
 **Cloud Technologies:** Azure, Google Cloud Platform, Docker
 
