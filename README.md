@@ -17,9 +17,9 @@ I'm Said Abdullahi, a Master of Data Science graduate with a background in econo
 
 **Specializations:** Machine Learning, Deep Learning, Computer Vision, Data Visualisation (Tableau & PowerBI), Econometrics
 
-**Cloud Technologies:** Azure, Google Cloud Platform, Docker
+**Cloud Technologies:** Azure
 
-**Project Management:** Agile, JIRA, Git
+**Project Management:** Agile, Git
 
 ## 📈 Featured Projects
 ♻️ Smart Recycling with Deep Learning
