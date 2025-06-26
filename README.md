@@ -25,5 +25,4 @@ I'm Said Abdullahi, a Master of Data Science graduate with a background in econo
 ♻️ Smart Recycling with Deep Learning
 An AI-powered solution for waste classification to optimise recycling processes. Leveraged computer vision techniques and deep learning algorithms to accurately distinguish between different types of recyclable materials.
 
-🔒 Privacy Technology for Financial Intelligence: Dive into the future of financial intelligence with our cutting-edge exploration of privacy technologies. This project focuses on the development and application of advanced privacy-preserving techniques to enhance the security and confidentiality of financial data.
 
